@@ -1,7 +1,8 @@
+**Traffic Sign Recognition System**
+
+
 ![image](https://github.com/user-attachments/assets/e7707c5d-0ec7-4238-a8f2-b1eeacbff516)
 
-
-Traffic Sign Recognition System
 
 This project, titled Traffic Sign Recognition, is designed to automatically recognize and classify traffic signs using machine learning techniques. By analyzing images of traffic signs, the system can accurately identify their category, making it a valuable tool for applications such as driver assistance systems and autonomous vehicles.
 
